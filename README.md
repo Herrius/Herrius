@@ -3,13 +3,13 @@
 ### About me
 ---
 
-👨‍🎓 I am Enrique Ubaldo, a Developer Web (specializing in Front End Web Development) studying carrer of system engineering ( other countries are software engianeering)
+👨‍🎓 I am Enrique Ubaldo, a Developer, Web (specializing in Front End Web Development) studying the career of system engineering (other countries are software engineering)
 
-👨‍💻 I enjoy learning and applying the knowledge acquired in project technology. Currently, I am studying javascript, php and machine learning for project webs. I am going to study react, kotlin and flutter in this year 2021.
+👨‍💻 I enjoy learning and applying the knowledge acquired in projection technology. Currently, I am studying javascript, PHP and machine learning for project webs. I am going to study react, coastline and flutter in this year 2021.
 
-🎲 Outside the world of tech too, I teach how playing modern board game to students of college, because I love the board games. It's a activty very social and recreational for person.
+🎲 Outside the world of tech too, I teach how playing modern board games for students in college, because I love the board games. It's an activity very social and recreational in person.
 
-📚 I'm starting the habit of reading books. I'm very interesting on personal development and fantastic literature. Currently, I am reading the book Awake The Gian Within by Anthony Robbins.
+📚 I'm starting the habit of reading books. I'm very interesting on personal development and fantastic literature. Currently, I am reading the book, Awake The Gian Within by Anthony Robbins.
 
 ### 🥇 Achievements
 ---
