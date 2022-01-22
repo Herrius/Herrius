@@ -3,20 +3,21 @@
 ### About me
 ---
 
-👨‍🎓 I am Enrique Ubaldo, a Developer, Web (specializing in Front End Web Development) studying the career of system engineering (other countries are software engineering)
+👨‍🎓 I am Enrique Ubaldo, a Developer Web (specializing in Front End Web Development) graduated in systems engineering (other countries are software engineering)
 
-👨‍💻 I enjoy learning and applying the knowledge acquired in projection technology. Currently, I am studying javascript, PHP and machine learning for project webs. I am going to study react, coastline and flutter in this year 2021.
+👨‍💻 I enjoy learning and applying the knowledge acquired in projection technology. Currently, I am studying node.js, python and ux. 
 
-🎲 Outside the world of tech too, I teach how playing modern board games for students in college, because I love the board games. It's an activity very social and recreational in person.
+🎲 Outside the world of tech too, I teach how playing modern board games for students in college and work in project personal such as my second brain
 
-📚 I'm starting the habit of reading books. I'm very interesting on personal development and fantastic literature. Currently, I am reading the book, Awake The Gian Within by Anthony Robbins.
+📚 I'm starting the habit of reading books. I'm very interesting on personal development and fantastic literature. Currently, I am reading the book, the power of Habit.
 
 ### 🥇 Achievements
 ---
 
-* 🤓 My average grade is 15 (0 to 20)
-* 🤝 Hult Prize 2020 participant with smart dumpster startup.
-* 🤝 Engineering fair UC participant with project of air purifier (October 2019)
+* 👨‍🎓 Degree of bachelor in System Enginers 2021
+* 👨‍🎓 I get the certified Azure Ai Fundaments
+* 🤝 Hult Prize participant with smart trash containers in February 2020.
+* 🤝 Engineering fair UC participant with the project of air purifier in October 2019 
 
 ### 🛠️ Skills
 ---
@@ -39,5 +40,5 @@
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## 🔗 Links
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/93ced180-25b4-443f-9cca-b2b908f7acc9/Enrique_Ubaldo.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210604T152321Z&X-Amz-Expires=86400&X-Amz-Signature=90b6abb1868a5ad53d071c88b67e6ff76fed204c187f04d4155090f4fa80cb8b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Enrique%2520Ubaldo.pdf")
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://herrius.super.site/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/herrius/)
