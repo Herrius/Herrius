@@ -14,10 +14,10 @@
 ### 🥇 Achievements
 ---
 
-* 👨‍🎓 Degree of bachelor in System Enginers 2021
-* 👨‍🎓 I get the certified Azure Ai Fundaments
+* 👨‍🎓 Degree of bachelor in System Enginers in December 2021.
+* 👨‍🎓 I get the certified Azure Ai Fundaments in November 2021.
 * 🤝 Hult Prize participant with smart trash containers in February 2020.
-* 🤝 Engineering fair UC participant with the project of air purifier in October 2019 
+* 🤝 Engineering fair UC participant with the project of air purifier in October 2019 .
 
 ### 🛠️ Skills
 ---
