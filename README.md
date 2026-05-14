@@ -1,38 +1,45 @@
-## Hi there 👋
+## Hi 👋, I'm Enrique Ubaldo
 
-### About me
+I build software so that Peru tells its story to a new generation —
+and eventually to the world.
+
+I work across the format each story needs: scrollytelling, interactive
+catalogs, immersive web pieces. Web first today, open to games,
+installations and other media as projects demand it.
+
 ---
 
-👨‍🎓 I am Enrique Ubaldo, a developer artificial intelligence
+### 🌎 Active work
 
-👨‍💻 I enjoy learning and applying the knowledge acquired in projection technology. Currently, I am studying sckit-learn and gradio. 
+**[Historia Corrupta](https://peru-corrupto-historia.pages.dev/)** — 493 years
+of corruption in Peru, told as a web experience. Based on Quiroz (2013),
+20 cases, custom lightbox, image curation from Wikimedia. Published May 2026.
 
-🎲 Outside the world of tech too, I teach how playing modern board games for students in University and work in project personal such as my second brain
+### 🔭 In progress
 
-📚 I'm starting the habit of reading books. I'm very interesting on personal development and fantastic literature. Currently, I am reading the book, Steve Jobs.
+Second piece — to be announced. Series of projects on Peruvian culture
+and history, designed for young Peruvian audiences and translatable
+for international reach.
 
-### 🥇 Achievements
----
-* 👨‍🎓 I get the certified Data Engineer in Azure 2022
-* 👨‍🎓 Degree of bachelor in System Enginers in December 2021.
-* 👨‍🎓 I get the certified Azure Ai Fundaments in November 2021.
-* 🤝 Hult Prize participant with smart trash containers in February 2020.
-* 🤝 Engineering fair UC participant with the project of air purifier in October 2019 .
-
-### 🛠️ Skills
 ---
 
-#### High skills
-![python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![sql](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
-#### Low skills
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![html5](https://img.shields.io/badge/HTML5-F05032?style=for-the-badge&logo=html&logoColor=F7DF1E)
+### 🧰 Stack
 
+Plain HTML / CSS / JS for editorial pieces. Cloudflare Pages for hosting.
+Python for analysis and data work. Comfortable picking up whatever a
+project needs.
 
+### 🧱 Background
 
-## 🔗 Links
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/herrius/)
+Software developer with a trajectory in offensive security
+(pentesting, red team, Active Directory). That technical foundation
+sustains the current work: cultural software built with the rigor of
+serious engineering, not as a side hobby.
+
+---
+
+### 🔗 Links
+
+- Web: [enriqueubaldo.pe](https://enriqueubaldo.pe) *(soon)*
+- LinkedIn: [in/herrius](https://www.linkedin.com/in/herrius/)
+- Email: enriqueubaldo97@gmail.com
